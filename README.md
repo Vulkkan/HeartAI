@@ -1,5 +1,5 @@
-# Student Performance Predictor
+# Heart AI
 
-# How to run:
-1. Install all requirements
-2. Execute 'streamlit run Dashboard.py' and navigate to the link.
+Heart AI is a hospital-grade application that reduces the doctors' work by predicting the risk of heart problems.
+
+It also gives insights and advice, and can be run in batch.
