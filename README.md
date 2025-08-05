@@ -1,8 +1,8 @@
 # Heart AI
 
-Heart AI is a hospital-grade application that reduces the doctors' work by predicting the risk of heart problems.
+Heart AI is an application that reduces the doctors' work by predicting the risk of heart problems.
 
-It also gives insights and advice, and can be run in batch.
+It also gives insights and advice, and supports batch operations.
 
 Check out this app on:
 https://vulkkan-heartai.streamlit.app/
